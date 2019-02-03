@@ -1,0 +1,24 @@
+.list-group-item {
+	
+	background-color: #ff9800;
+	
+}
+
+a.list-group-item:hover {
+	
+	background-color: #c57600;
+	
+}
+
+.jumbotron{
+	
+	background-color: #ff9800;
+}
+
+.panel-warning>.panel-heading {
+	background-color: #ff9800;
+}
+
+.panel-success>.panel-heading {
+	background-color: #16a01c;
+}
